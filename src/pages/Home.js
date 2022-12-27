@@ -254,7 +254,6 @@ export default function Home() {
             </Box>
             <Box sx={{ display: 'flex', justifyContent: 'space-around' }}>
               <Box>
-                {console.log('modalData', modalData)}
                 <CardMedia
                   component="img"
                   height="240"
